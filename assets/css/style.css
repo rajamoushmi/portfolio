@@ -439,6 +439,7 @@ main {
   width: 100%;
 }
 
+
 .navbar-item {
   flex-grow: 1;
   text-align: center;
@@ -1135,7 +1136,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
      }
 
-  .avatar-box img { width: 205px;
+  .avatar-box img { width: 178px;
     border-radius: 10px;
   height: auto;
   }
